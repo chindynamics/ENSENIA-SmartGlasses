@@ -5,6 +5,8 @@ The hardware consists of a mini OLED display, mirrors, and a custom lens system 
 
 This project was created with the goal of improving accessibility, autonomy, and social inclusion for deaf individuals in Mexico and beyond. It aims to offer a dual solution: assistive communication and sign language learning, all within a wearable and affordable format.
 
+![lentes](https://github.com/user-attachments/assets/52b6201c-5ab9-48de-bff0-e031ff3eab7a)
+
 ## Technical Specifications
 
 ### Hardware
